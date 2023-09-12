@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-color: white;
+  background-color: blue;
 
 }
 
@@ -21,7 +21,7 @@ p {
 <body>
 
 <h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
+<p>This is a paragraph. It's really working</p>
 
 </body>
 </html>
